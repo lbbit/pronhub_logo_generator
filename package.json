@@ -1,0 +1,23 @@
+{
+    "name": "pornhub-logo-generator",
+    "version": "1.0.0",
+    "description": "A server-side Pornhub style logo generator using Node.js and canvas.",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "keywords": [
+      "node.js",
+      "express",
+      "canvas",
+      "logo",
+      "generator"
+    ],
+    "author": "Your Name",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.17.1",
+      "canvas": "^2.8.0"
+    }
+  }
+  
